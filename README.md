@@ -5,12 +5,12 @@
 -->
 
 - 🔭 I’m currently working on "memepedia" - a Wikipedia for memes.
-- 🌱 I’m currently learning React Native.
-- 👯 I’m looking to collaborate on JavaScript projects.
-- 🤔 I’m looking for help with "TCS-codevita practice problems"
+- 🌱 I’m currently learning React Native🤓.
+- 👯 I’m looking to collaborate on JavaScript projects🤝.
+- 🤔 I’m looking for help with [TCS-CodeVita-practice-problems](https://github.com/akatsuki-org/TCS-CodeVita-practice-problems)🧾
 - 💬 Ask me about anything😁.
-- 📫 How to reach me: 
-- ⚡ Fun fact: I might be a simulation.
+- 📫 How to reach me: [⏬Social media](https://github.com/jeelpatel1612/jeelpatel1612#-social), [📧email me](mailto:jeelpdev@gmail.com?subject=[GitHub]%20Source%20profile)
+- ⚡ Fun fact: I might be a simulation💻.
 <!-- - 😄 Pronouns: -->
 
 <br />
@@ -22,7 +22,7 @@
 
 <br />
 
-## 🚀 Skills
+### 🚀 Skills
 <!-- char. for indicating : %20 🟢 ⚪ -->
 ![python](https://img.shields.io/badge/python%20🟢🟢🟢⚪⚪-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)  
 ![javascript](https://img.shields.io/badge/javascript%20🟢🟢🟢🟢⚪-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white&labelColor=black)  
@@ -33,22 +33,29 @@
 
 <br />
 
-## Top Languages Card
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
 <!-- reference : https://github.com/anuraghazra/github-readme-stats -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeelpatel1612)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🎮🕹 Games
+### 🎮🕹 Games
 <!-- TODO: get public links -->
 [<img src="https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" />](https://jeel/)
 [<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />](https://jeel/)
 
 <br />
 
-## 👨👩 Social
+### 👨👩 Socials
 <!--
 reference : https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jeel/)
+[<img src="https://img.shields.io/badge/stackoverflow-%23FF5722.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/story/10872163)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/__j_e_e_l__/)
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
 [<img src = "https://img.shields.io/badge/reddit-%23FF5722.svg?&style=for-the-badge&logo=reddit&logoColor=white">](https://www.reddit.com/user/__j_e_e_l__)
