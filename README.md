@@ -19,6 +19,10 @@ github resume references : https://github.com/resume/resume.github.com
 
 <br />
 
+<!-- profile view counter, reference : https://github.com/arturssmirnovs/github-profile-views-counter
+![Profile views](https://gpvc.arturio.dev/jeelpatel1612)
+-->
+
 <!-- ![my github stats - light](https://github-readme-stats.vercel.app/api?username=jeelpatel1612) -->
 ![my github stats - dark](https://github-readme-stats.vercel.app/api?username=jeelpatel1612&show_icons=true&count_private=true&theme=dark)
 
@@ -67,3 +71,7 @@ reference : https://github.com/alexandresanlim/Badges4-README.md-Profile
 <a href="https://github.com/jeelpatel1612"><img src="https://img.shields.io/github/followers/jeelpatel1612.svg?label=GitHub&style=social" alt="GitHub"></a>
 <!-- [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/__j_e_e_l__) -->
 
+<!-- updated this at, reference : https://github.com/puf17640/git-badges
+
+-->
+[![Updated Badge](https://badges.pufler.dev/updated/jeelpatel1612/jeelpatel1612)](https://badges.pufler.dev)
