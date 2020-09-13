@@ -1,7 +1,9 @@
-### Hi there 👋, I'm  [Jeel](http://resume.github.io/?jeelpatel1612) 😁
+### Hi there 👋, I'm  [Jeel](https://octoprofile.now.sh/user?id=jeelpatel1612) 😁
 
 <!--
 github resume references : https://github.com/resume/resume.github.com
+my github resume : http://resume.github.io/?jeelpatel1612
+my octo profile : https://octoprofile.now.sh/user?id=jeelpatel1612
 -->
 
 <!--
